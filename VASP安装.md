@@ -9,30 +9,31 @@
 	4.VASP安装
 	
 	5.VASP最终测试
-	
+
 ## 一. vmware虚拟机安装
 #### 1.百度搜索“VM”或者输入网址
 	"https://www.vmware.com/cn.html"
 [访问VM官网](https://www.vmware.com/cn.html)。
 	  
 #### 2.下载-产品下载-Workstation Pro(见下图)
-![图片](https://img-blog.csdnimg.cn/20190921182804841.png)
+![图片](C:\Users\15975\Desktop\makeDown\image\20190921182804841.png)
 
 #### 3.根据自己的系统（Windows），点击相应的安装包下载 
-![图片](https://img-blog.csdnimg.cn/20190921183145130.png)
+![图片](C:\Users\15975\Desktop\makeDown\image\20190921183145130.png)
 
 #### 4.确定下载的版本，选择立即下载，下载开始，请等待！
-![图片](https://img-blog.csdnimg.cn/20190921183638880.png)
+![图片](C:\Users\15975\Desktop\makeDown\image\20190921183638880.png)
 
 #### 5.下载完成后，按照安装步骤一步步继续，安装到输入许可证密钥时，可以百度VM15激活码，激活VM。
 	"https://blog.csdn.net/qq_43498216/article/details/83591687"
 [点此传送](https://blog.csdn.net/qq_43498216/article/details/83591687)
-![图片](https://img-blog.csdnimg.cn/20190923143310645.png)
+![图片](C:\Users\15975\Desktop\makeDown\image\20190923143310645.png)
 
 ## 二. centos系统安装
 #### 1.搜索[清华大学开源网站镜像](https://mirrors.tuna.tsinghua.edu.cn/)，站内搜索centos，选择第一个搜索结果。
 ![图片](new_file_files/1.jpg)
 ![图片](new_file_files/2.jpg)
+
 #### 2.选择
 - 7.8.2003版本 
 ![图片](new_file_files/3.jpg)
@@ -52,16 +53,16 @@
 #### 4.进入centos系统
 - 将系统开机，选择第一条安装centos7
 
-![](https://img-blog.csdnimg.cn/20190822105955724.png)
+![](C:\Users\15975\Desktop\makeDown\image\20190822105955724.png)
 - 直接继续就可以了
 
-![](https://img-blog.csdnimg.cn/20190822110127998.png)
+![](C:\Users\15975\Desktop\makeDown\image\20190822110127998.png)
 - 继续到需要添写ROOT PASSWORD和用户注册，填写信息，以后获取权限和使用WinSCP连接虚拟机会用到。
 
-![](https://img-blog.csdnimg.cn/20190822111624521.png)
+![](C:\Users\15975\Desktop\makeDown\image\20190822111624521.png)
 - 填写完成后进如桌面
 
-![](https://img-blog.csdnimg.cn/20190822112958958.png)
+![](C:\Users\15975\Desktop\makeDown\image\20190822112958958.png)
 
 ## 三. Intel Parallel Studio XE 2019编译器安装
 ### [安装视频传送](https://www.bilibili.com/video/av39616222/)
